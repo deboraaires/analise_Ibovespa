@@ -1,0 +1,101 @@
+Symbol;Sector;Industry;Enterprise Name
+ABEV3;Consumer Defensive;Beverages—Brewers;Ambev S.A.
+ALPA3;Consumer Cyclical;Footwear & Accessories;Alpargatas S.A.
+BAZA3;Financial Services;Banks—Regional;Banco da Amazônia S.A.
+BBAS3;Financial Services;Banks—Regional;Banco do Brasil S.A.
+BEES3;Financial Services;Banks—Regional;Banestes S.A - Banco do Estado do Espírito Santo
+BMKS3;Consumer Cyclical;Leisure;Bicicletas Monark S.A.
+BRAP4;Financial Services;Asset Management;Bradespar S.A.
+BRKM3;Basic Materials;Chemicals;Braskem S.A.
+BRKM5;Basic Materials;Chemicals;Braskem S.A.
+BTOW3;Consumer Cyclical;Internet Retail;B2W - Companhia Digital 
+CARD3;Financial Services;Credit Services;CSU Cardsystem S.A.
+CBEE3;Utilities;Utilities—Regulated Electric;Ampla Energia e Serviços S.A. 
+CCPR3;Real Estate;Real Estate—Diversified;Cyrela Commercial Properties S.A.
+CCRO3;Industrials;Infrastructure Operations;CCR S.A.
+CESP3;Utilities;Utilities—Renewable;CESP - Companhia Energética de São Paulo
+CESP6;Utilities;Utilities—Renewable;CESP - Companhia Energética de São Paulo
+CGAS3;Utilities;Utilities—Regulated Gas;Companhia de Gás de São Paulo - COMGAS
+CGAS5;Utilities;Utilities—Regulated Gas;Companhia de Gás de São Paulo - COMGAS
+CMIG3;Utilities;Utilities—Diversified;Companhia Energética de Minas Gerais
+CMIG4;Utilities;Utilities—Diversified;Companhia Energética de Minas Gerais
+COCE5;Utilities;Utilities—Regulated Electric;Companhia Energética do Ceara
+CPFE3;Utilities;Utilities—Regulated Electric;CPFL Energia S.A.
+CPLE3;Utilities;Utilities—Diversified;Companhia Paranaense de Energia - COPEL
+CPLE6;Utilities;Utilities—Diversified;Companhia Paranaense de Energia - COPEL
+CRIV4;Financial Services;Financial Conglomerates;Financeira Alfa S.A. - Crédito, Financiamento e Investimentos
+CSAN3;Energy;Oil & Gas Refining & Marketing;Cosan S.A.
+CSMG3;Utilities;Utilities—Regulated Water;Companhia de Saneamento de Minas Gerais
+CSNA3;Basic Materials;Steel;Companhia Siderúrgica Nacional
+CTNM4;Consumer Cyclical;Textile Manufacturing;Companhia de Tecidos Norte de Minas - COTEMINAS
+CTSA3;Consumer Cyclical;Textile Manufacturing;Companhia Tecidos Santanense Ltda.
+CYRE3;Consumer Cyclical;Residential Construction;Cyrela Brazil Realty S.A. Empreendimentos e Participações
+DTCY3;Communication Services;Telecom Services;DTCOM - Direct to Company S.A.
+EALT4;Industrials;Metal Fabrication;Electro Aço Altona S.A.
+ELET3;Utilities;Utilities—Regulated Electric;Centrais Eletricas Brasileiras S.A. - Eletrobras
+EMAE4;Utilities;Utilities—Diversified;Empresa Metropolitana de Águas e Energia S.A.
+EMBR3;Industrials;Aerospace & Defense;Embraer S.A.
+ENBR3;Utilities;Utilities—Renewable;EDP - Energias do Brasil S.A.
+ETER3;Industrials;Building Products & Equipment;Eternit S.A.
+FESA4;Basic Materials;Steel;Cia de Ferro Ligas da Bahia - FERBASA
+GFSA3;Consumer Cyclical;Residential Construction;Gafisa S.A.
+GGBR3;Basic Materials;Steel;Gerdau S.A.
+GOAU3;Basic Materials;Steel;Metalurgica Gerdau S.A.
+GOAU4;Basic Materials;Steel;Metalurgica Gerdau S.A.
+GOLL4;Industrials;Airlines;Gol Linhas Aereas Inteligentes S.A.
+GPCP3;Basic Materials;Chemicals;GPC Participacoes S.A.
+GPIV33;Financial Services;Asset Management;GP Investments, Ltd.
+GRND3;Consumer Cyclical;Footwear & Accessories;Grendene S.A.
+GUAR3;Consumer Cyclical;Apparel Manufacturing;Guararapes Confeccoes S.A.
+HAGA4;Industrials;Building Products & Equipment;HAGA S/A Industria e Comercio
+HGTX3;Consumer Cyclical;Apparel Manufacturing;Cia. Hering
+IDNT3;Financial Services;Asset Management;Ideiasnet S.A.
+IGBR3;Real Estate;Real Estate Services;IGB Eletronica S.A.
+INEP4;Industrials;Specialty Industrial Machinery;Inepar S.A. Industria e Construcoes
+ITSA4;Financial Services;Banks—Regional;Itausa - Investimentos Itau S.A. 
+ITUB3;Financial Services;Banks—Regional;Itau Unibanco Holding S.A.
+ITUB4;Financial Services;Banks—Regional;Itau Unibanco Holding S.A.
+JBDU3;Communication Services;Telecom Services;Industrias J.B. Duarte S.A.
+JBDU4;Communication Services;Telecom Services;Industrias J.B. Duarte S.A.
+JFEN3;Real Estate;Real Estate Services;Joao Fortes Engenharia S.A.
+KEPL3;Industrials;Farm & Heavy Construction Machinery;Kepler Weber S.A.
+LAME3;Consumer Cyclical;Department Stores;Lojas Americanas S.A.
+LAME4;Consumer Cyclical;Department Stores;Lojas Americanas S.A.
+LIGT3;Utilities;Utilities—Renewable;Light S.A.
+LPSB3;Real Estate;Real Estate Services;LPS Brasil - Consultoria de Imoveis S.A. (LPSB3.SA)
+LREN3;Consumer Cyclical;Department Stores;Lojas Renner S.A.
+MDIA3;Consumer Defensive;Packaged Foods;M. Dias Branco S.A. Industria e Comercio de Alimentos
+MGEL4;Basic Materials;Steel;Mangels Industrial S.A.
+MMXM3;Basic Materials;Other Industrial Metals & Mining;MMX Mineracao e Metalicos S.A.
+MNPR3;Consumer Defensive;Farm Products;Minupar Participacoes S.A. 
+MYPK3;Consumer Cyclical;Auto Parts;Iochpe-Maxion S.A.
+NATU3;Consumer Defensive;Household & Personal Products;NATURA COSMETICOS S.A.
+ODPV3;Healthcare;Healthcare Plans;Odontoprev S.A.
+PETR3;Energy;Oil & Gas Integrated;Petroleo Brasileiro S.A.
+PFRM3;Healthcare;Medical Distribution;Profarma Distribuidora de Produtos Farmaceuticos S.A.
+PMAM3;Basic Materials;Copper;Paranapanema S.A.
+POMO4;Consumer Cyclical;Auto Manufacturers;Marcopolo S.A.
+POSI3;Technology;Computer Hardware;Positivo Tecnologia S.A.
+PSSA3;Financial Services;Insurance—Diversified;Porto Seguro S.A.
+PTBL3;Industrials;Building Products & Equipment;PBG S.A. - Portobello S.A.
+RADL3;Healthcare;Pharmaceutical Retailers;Raia Drogasil S.A.
+RAPT4;Industrials;Farm & Heavy Construction Machinery;Randon S.A. Implementos e Participações
+RCSL4;Industrials;Specialty Industrial Machinery;Recrusul S/A
+RENT3;Industrials;Rental & Leasing Services;Localiza Rent a Car S.A.
+ROMI3;Industrials;Industrial Distribution;Industrias Romi S.A.
+RSID3;Consumer Cyclical;Residential Construction;Rossi Residencial S.A.
+SANB3;Financial Services;Banks—Regional;Banco Santander (Brasil) S.A.
+SANB4;Financial Services;Banks—Regional;Banco Santander (Brasil) S.A.
+SBSP3;Utilities;Utilities—Regulated Water;Companhia de Saneamento Básico do Estado de São Paulo - SABESP
+SCAR3;Real Estate;Real Estate Services;São Carlos Empreendimentos e Participações S.A.
+SHUL4;Consumer Cyclical;Auto Parts;Schulz S.A.
+SLED4;Consumer Cyclical;Specialty Retail;Saraiva S.A. Livreiros Editores
+SNSY5;Consumer Cyclical;Auto Parts;Sansuy S.A.
+SPRI3;Consumer Cyclical;Furnishings, Fixtures & Appliances;Springer S/A
+TELB3;Communication Services;Telecom Services;Telecomunicacoes Brasileiras S.A. - TELEBRAS
+TOTS3;Technology;Software—Application;TOTVS S.A.
+TRPL4;Utilities;Utilities—Regulated Electric;CTEEP - Companhia de Transmissao de Energia Eletrica Paulista S.A.
+UNIP6;Basic Materials;Chemicals;Unipar Carbocloro S.A.
+USIM3;Basic Materials;Steel;Usinas Siderúrgicas de Minas Gerais S.A.
+VALE3;Basic Materials;Other Industrial Metals & Mining;Vale S.A.
+WHRL4;Technology;Consumer Electronics;Whirlpool S.A.
